@@ -1,0 +1,89 @@
+/*********************************IMAGES**********************/
+
+.Top
+{
+  background-color: #D4A5A5;
+  height: auto;
+  width: 100%;
+  position: relative;
+}
+.cloud1
+{
+  position: absolute;
+    right: 20px;
+}
+.mountain
+{
+  padding-left: 390px;
+    position: relative;
+}
+.cloud2
+{
+  position: absolute;
+    right: 429px;
+    top: 321px;
+}
+
+.profpic
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 251px;
+
+}
+
+.IoT
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 251px;
+}
+
+.WebDep
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 251px;
+
+}
+/*********************************BODY**********************/
+body
+{
+  margin: 0;
+}
+
+h1
+{
+    margin: 0;
+    font-family: 'Zen Loop', cursive;
+    padding-left: 0;
+    text-align: center;
+
+}
+
+h2
+{
+  font-family: 'Noto Sans', sans-serif;
+  text-align: center;
+}
+
+h3
+{
+  text-align: center;
+}
+
+p
+{
+text-align: center;
+}
+
+.bottom-container
+{
+  text-align: center;
+}
