@@ -1,12 +1,15 @@
-/*********************************IMAGES**********************/
 
+/*********************************FACE**********************/
 .Top
 {
-  background-color: #D4A5A5;
+  background-color: #CDF0EA;
   height: auto;
   width: 100%;
   position: relative;
 }
+
+/*********************************IMAGES**********************/
+
 .cloud1
 {
   position: absolute;
@@ -14,14 +17,14 @@
 }
 .mountain
 {
-  padding-left: 390px;
     position: relative;
+    left: 400px;
 }
 .cloud2
 {
   position: absolute;
-    right: 429px;
-    top: 321px;
+    right: 428px;
+    top: 436px;
 }
 
 .profpic
@@ -56,31 +59,50 @@
 body
 {
   margin: 0;
+  font-family: 'Merriweather', serif;
 }
+
+/*********************************HEADINGS**********************/
 
 h1
 {
+    font-size: 5.682rem;
     margin: 0;
-    font-family: 'Zen Loop', cursive;
+    font-family: 'Sacramento', cursive;
     padding-left: 0;
     text-align: center;
-
+    color: #66BFBF;
+    line-height: 2;
 }
 
 h2
 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Monteserrat', sans-serif;
   text-align: center;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
 }
 
 h3
 {
   text-align: center;
+  font-family: 'Monteserrat', sans-serif;
+  color: #11999E;
 }
+
+/*********************************DESCRIPTION**********************/
+
 
 p
 {
 text-align: center;
+}
+
+a
+{
+  color: #11999E;
 }
 
 .bottom-container
